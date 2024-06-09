@@ -9,4 +9,4 @@
 
     💻 Tech Stack:
   
-    :Hugs: 
+    :bowtie:
