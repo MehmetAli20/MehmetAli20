@@ -1,5 +1,5 @@
 
-  Greetings 👋
+    Greetings 👋
 
 
 - 🔭 I’m currently a computer engineering student at Karadeniz Technical University
