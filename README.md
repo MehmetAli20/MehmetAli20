@@ -1,5 +1,6 @@
-## Greetings 👋
-**MehmetAli20/MehmetAli20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  Greetings 👋
+
 
 - 🔭 I’m currently a computer engineering student at Karadeniz Technical University
 - 🌱 I’m currently learning about Web Development
