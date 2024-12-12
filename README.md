@@ -8,6 +8,7 @@
 - ⚡ Also : I do cycling and I am a tennis instructor for the school's tennis club.
 
     💻 Tech Stack:
+      C#
       C/C++,
       HTML,CSS,Javascipt,
       Node.js,
