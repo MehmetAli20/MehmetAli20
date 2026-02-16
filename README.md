@@ -10,6 +10,7 @@
     💻 Tech Stack:
   
       C#,
+      Python,
       C/C++,
       HTML,CSS,Javascipt,
       Node.js,
